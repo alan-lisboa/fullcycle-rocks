@@ -1,3 +1,3 @@
-module github.com/alan-lisboa/code-education-rocks
+module github.com/alan-lisboa/fullcycle-rocks
 
 go 1.18

@@ -1,3 +1,7 @@
-module github.com/alan-lisboa/code-education-rocks
+package main
 
-go 1.18
+import "fmt"
+
+func main() {
+	fmt.Print("FullCycle Rocks!")
+}
